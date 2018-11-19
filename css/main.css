@@ -97,7 +97,14 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
-
+#welcome-section {
+    width: 100%;
+    height: 100vh;
+    background-color: #247BA0;
+    color: #B2DBBF;
+    text-align: center;
+    line-height: 100vh;
+}
 
 /* ==========================================================================
    Helper classes
